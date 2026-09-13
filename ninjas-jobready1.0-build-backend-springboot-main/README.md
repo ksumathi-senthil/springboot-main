@@ -1,4 +1,4 @@
-# Spring Boot + MySQL example - WEZVA TECHNOLOGIES | ADAM | 9739110917
+# Spring Boot + MySQL example  
 # Sample commit - 04
 
 ## Technologies used:
