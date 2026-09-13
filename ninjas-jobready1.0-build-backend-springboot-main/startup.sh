@@ -1,9 +1,4 @@
 #!/bin/sh
-# -------------------------- #
-# Author: ADAM M 
-# WEZVATECH - +91-9739110917
-# -------------------------- #
-
 set -e 
 echo "Setting the configuration file application to start .."
 cat /opt/wezva/application.properties.orig > application.properties
